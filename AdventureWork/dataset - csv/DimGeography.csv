@@ -1,0 +1,656 @@
+GeographyKey,City,State,Country
+1,Alexandria,New South Wales,Australia
+2,Coffs Harbour,New South Wales,Australia
+3,Darlinghurst,New South Wales,Australia
+4,Goulburn,New South Wales,Australia
+5,Lane Cove,New South Wales,Australia
+6,Lavender Bay,New South Wales,Australia
+7,Malabar,New South Wales,Australia
+8,Matraville,New South Wales,Australia
+9,Milsons Point,New South Wales,Australia
+10,Newcastle,New South Wales,Australia
+11,North Ryde,New South Wales,Australia
+12,North Sydney,New South Wales,Australia
+13,Port Macquarie,New South Wales,Australia
+14,Rhodes,New South Wales,Australia
+15,Silverwater,New South Wales,Australia
+16,Springwood,New South Wales,Australia
+17,St. Leonards,New South Wales,Australia
+18,Sydney,New South Wales,Australia
+19,Wollongong,New South Wales,Australia
+20,Brisbane,Queensland,Australia
+21,Caloundra,Queensland,Australia
+22,East Brisbane,Queensland,Australia
+23,Gold Coast,Queensland,Australia
+24,Hawthorne,Queensland,Australia
+25,Hervey Bay,Queensland,Australia
+26,Rockhampton,Queensland,Australia
+27,Townsville,Queensland,Australia
+28,Cloverdale,South Australia,Australia
+29,Findon,South Australia,Australia
+30,Perth,South Australia,Australia
+31,Hobart,Tasmania,Australia
+32,Bendigo,Victoria,Australia
+33,Cranbourne,Victoria,Australia
+34,Geelong,Victoria,Australia
+35,Melbourne,Victoria,Australia
+36,Melton,Victoria,Australia
+37,Seaford,Victoria,Australia
+38,South Melbourne,Victoria,Australia
+39,Sunbury,Victoria,Australia
+40,Warrnambool,Victoria,Australia
+41,Calgary,Alberta,Canada
+42,Edmonton,Alberta,Canada
+43,Burnaby,British Columbia,Canada
+44,Burnaby,British Columbia,Canada
+45,Burnaby,British Columbia,Canada
+46,Burnaby,British Columbia,Canada
+47,Burnaby,British Columbia,Canada
+48,Burnaby,British Columbia,Canada
+49,Cliffside,British Columbia,Canada
+50,Haney,British Columbia,Canada
+51,Langford,British Columbia,Canada
+52,Langley,British Columbia,Canada
+53,Metchosin,British Columbia,Canada
+54,N. Vancouver,British Columbia,Canada
+55,Newton,British Columbia,Canada
+56,Newton,British Columbia,Canada
+57,Newton,British Columbia,Canada
+58,Newton,British Columbia,Canada
+59,Oak Bay,British Columbia,Canada
+60,Port Hammond,British Columbia,Canada
+61,Richmond,British Columbia,Canada
+62,Royal Oak,British Columbia,Canada
+63,Shawnee,British Columbia,Canada
+64,Shawnee,British Columbia,Canada
+65,Shawnee,British Columbia,Canada
+66,Sooke,British Columbia,Canada
+67,Surrey,British Columbia,Canada
+68,Vancouver,British Columbia,Canada
+69,Victoria,British Columbia,Canada
+70,Westminster,British Columbia,Canada
+71,Westminster,British Columbia,Canada
+72,Winnipeg,Manitoba,Canada
+73,Saint John,Brunswick,Canada
+74,Aurora,Ontario,Canada
+75,Barrie,Ontario,Canada
+76,Brampton,Ontario,Canada
+77,Chalk Riber,Ontario,Canada
+78,Etobicoke,Ontario,Canada
+79,Kanata,Ontario,Canada
+80,Kingston,Ontario,Canada
+81,Markham,Ontario,Canada
+82,Mississauga,Ontario,Canada
+83,Mississauga,Ontario,Canada
+84,Mississauga,Ontario,Canada
+85,Nepean,Ontario,Canada
+86,North York,Ontario,Canada
+87,Ottawa,Ontario,Canada
+88,Ottawa,Ontario,Canada
+89,Ottawa,Ontario,Canada
+90,Ottawa,Ontario,Canada
+91,Richmond Hill,Ontario,Canada
+92,Scarborough,Ontario,Canada
+93,Toronto,Ontario,Canada
+94,Toronto,Ontario,Canada
+95,Toronto,Ontario,Canada
+96,Toronto,Ontario,Canada
+97,Vancouver,Ontario,Canada
+98,Waterloo,Ontario,Canada
+99,Weston,Ontario,Canada
+100,Brossard,Quebec,Canada
+101,Brossard,Quebec,Canada
+102,Dorval,Quebec,Canada
+103,Hull,Quebec,Canada
+104,Montreal,Quebec,Canada
+105,Montreal,Quebec,Canada
+106,Montreal,Quebec,Canada
+107,Montreal,Quebec,Canada
+108,Outremont,Quebec,Canada
+109,Pnot-Rouge,Quebec,Canada
+110,Quebec,Quebec,Canada
+111,Sainte-Foy,Quebec,Canada
+112,Sillery,Quebec,Canada
+113,Ville De'anjou,Quebec,Canada
+114,Berlin,Brandenburg,Germany
+115,Eilenburg,Brandenburg,Germany
+116,Augsburg,Bayern,Germany
+117,Erlangen,Bayern,Germany
+118,Frankfurt,Bayern,Germany
+119,Grevenbroich,Bayern,Germany
+120,Hof,Bayern,Germany
+121,Ingolstadt,Bayern,Germany
+122,Bad Soden,Hessen,Germany
+123,Berlin,Hessen,Germany
+124,Berlin,Hessen,Germany
+125,Berlin,Hessen,Germany
+126,Berlin,Hessen,Germany
+127,Darmstadt,Hessen,Germany
+128,Dresden,Hessen,Germany
+129,Duesseldorf,Hessen,Germany
+130,Duesseldorf,Hessen,Germany
+131,Frankfurt,Hessen,Germany
+132,Hamburg,Hessen,Germany
+133,Kassel,Hessen,Germany
+134,München,Hessen,Germany
+135,Salzgitter,Hessen,Germany
+136,Ascheim,Hamburg,Germany
+137,Augsburg,Hamburg,Germany
+138,Berlin,Hamburg,Germany
+139,Berlin,Hamburg,Germany
+140,Berlin,Hamburg,Germany
+141,Berlin,Hamburg,Germany
+142,Bonn,Hamburg,Germany
+143,Bonn,Hamburg,Germany
+144,Essen,Hamburg,Germany
+145,Frankfurt am Main,Hamburg,Germany
+146,Frankfurt am Main,Hamburg,Germany
+147,Hamburg,Hamburg,Germany
+148,Muehlheim,Hamburg,Germany
+149,Mühlheim,Hamburg,Germany
+150,München,Hamburg,Germany
+151,Paderborn,Hamburg,Germany
+152,Berlin,Nordrhein-Westfalen,Germany
+153,Berlin,Nordrhein-Westfalen,Germany
+154,Bonn,Nordrhein-Westfalen,Germany
+155,Bottrop,Nordrhein-Westfalen,Germany
+156,Braunschweig,Nordrhein-Westfalen,Germany
+157,Hannover,Nordrhein-Westfalen,Germany
+158,Leipzig,Nordrhein-Westfalen,Germany
+159,München,Nordrhein-Westfalen,Germany
+160,Paderborn,Nordrhein-Westfalen,Germany
+161,Solingen,Nordrhein-Westfalen,Germany
+162,Werne,Nordrhein-Westfalen,Germany
+163,Berlin,Saarland,Germany
+164,Berlin,Saarland,Germany
+165,Berlin,Saarland,Germany
+166,Frankfurt am Main,Saarland,Germany
+167,Frankfurt am Main,Saarland,Germany
+168,Kiel,Saarland,Germany
+169,München,Saarland,Germany
+170,Münster,Saarland,Germany
+171,Neunkirchen,Saarland,Germany
+172,Offenbach,Saarland,Germany
+173,Poing,Saarland,Germany
+174,Saarbrücken,Saarland,Germany
+175,Saarlouis,Saarland,Germany
+176,Stuttgart,Saarland,Germany
+177,Stuttgart,Saarland,Germany
+178,Sulzbach Taunus,Saarland,Germany
+179,Saint Ouen,Charente-Maritime,France
+180,Colomiers,Garonne (Haute),France
+181,Aujan Mournede,Gers,France
+182,Saint Ouen,Loir et Cher,France
+183,Orleans,Loiret,France
+184,Metz,Moselle,France
+185,Croix,Nord,France
+186,Dunkerque,Nord,France
+187,Lille,Nord,France
+188,Roncq,Nord,France
+189,Roubaix,Nord,France
+190,Villeneuve-d'Ascq,Nord,France
+191,Boulogne-sur-Mer,Pas de Calais,France
+192,Paris,Seine (Paris),France
+193,Paris,Seine (Paris),France
+194,Paris,Seine (Paris),France
+195,Paris,Seine (Paris),France
+196,Paris,Seine (Paris),France
+197,Paris,Seine (Paris),France
+198,Paris,Seine (Paris),France
+199,Paris,Seine (Paris),France
+200,Paris,Seine (Paris),France
+201,Paris,Seine (Paris),France
+202,Paris,Seine (Paris),France
+203,Paris,Seine (Paris),France
+204,Paris,Seine (Paris),France
+205,Lieusaint,Seine et Marne,France
+206,Roissy en Brie,Seine et Marne,France
+207,Chatou,Yveline,France
+208,Saint Germain en Laye,Yveline,France
+209,Versailles,Yveline,France
+210,Saint Ouen,Somme,France
+211,Les Ulis,Essonne,France
+212,Morangis,Essonne,France
+213,Verrieres Le Buisson,Essonne,France
+214,Boulogne-Billancourt,Hauts de Seine,France
+215,Colombes,Hauts de Seine,France
+216,Courbevoie,Hauts de Seine,France
+217,Paris La Defense,Hauts de Seine,France
+218,Sèvres,Hauts de Seine,France
+219,Suresnes,Hauts de Seine,France
+220,Bobigny,Seine Saint Denis,France
+221,Drancy,Seine Saint Denis,France
+222,Pantin,Seine Saint Denis,France
+223,Saint-Denis,Seine Saint Denis,France
+224,Tremblay-en-France,Seine Saint Denis,France
+225,Orly,Val de Marne,France
+226,Cergy,Val d'Oise,France
+227,Abingdon,England,United Kingdom
+228,Basingstoke Hants,England,United Kingdom
+229,Berks,England,United Kingdom
+230,Berkshire,England,United Kingdom
+231,Billericay,England,United Kingdom
+232,Birmingham,England,United Kingdom
+233,Bracknell,England,United Kingdom
+234,Bury,England,United Kingdom
+235,Cambridge,England,United Kingdom
+236,Cheltenham,England,United Kingdom
+237,Esher-Molesey,England,United Kingdom
+238,Gateshead,England,United Kingdom
+239,Gloucestershire,England,United Kingdom
+240,High Wycombe,England,United Kingdom
+241,Kirkby,England,United Kingdom
+242,Lancaster,England,United Kingdom
+243,Leeds,England,United Kingdom
+244,London,England,United Kingdom
+245,London,England,United Kingdom
+246,London,England,United Kingdom
+247,London,England,United Kingdom
+248,London,England,United Kingdom
+249,London,England,United Kingdom
+250,London,England,United Kingdom
+251,London,England,United Kingdom
+252,London,England,United Kingdom
+253,London,England,United Kingdom
+254,London,England,United Kingdom
+255,London,England,United Kingdom
+256,London,England,United Kingdom
+257,London,England,United Kingdom
+258,Maidenhead,England,United Kingdom
+259,Milton Keynes,England,United Kingdom
+260,Milton Keynes,England,United Kingdom
+261,Newcastle upon Tyne,England,United Kingdom
+262,Oxford,England,United Kingdom
+263,Oxford,England,United Kingdom
+264,Oxon,England,United Kingdom
+265,Peterborough,England,United Kingdom
+266,Reading,England,United Kingdom
+267,Runcorn,England,United Kingdom
+268,Liverpool,England,United Kingdom
+269,Stoke-on-Trent,England,United Kingdom
+270,W. York,England,United Kingdom
+271,Warrington,England,United Kingdom
+272,Warrington,England,United Kingdom
+273,Watford,England,United Kingdom
+274,West Sussex,England,United Kingdom
+275,Wokingham,England,United Kingdom
+276,Woolston,England,United Kingdom
+277,York,England,United Kingdom
+278,York,England,United Kingdom
+279,York,England,United Kingdom
+280,Birmingham,Alabama,United States
+281,Florence,Alabama,United States
+282,Huntsville,Alabama,United States
+283,Mobile,Alabama,United States
+284,Montgomery,Alabama,United States
+285,Chandler,Arizona,United States
+286,Gilbert,Arizona,United States
+287,Mesa,Arizona,United States
+288,Phoenix,Arizona,United States
+289,Scottsdale,Arizona,United States
+290,Surprise,Arizona,United States
+291,Tucson,Arizona,United States
+292,Alhambra,California,United States
+293,Alpine,California,United States
+294,Auburn,California,United States
+295,Baldwin Park,California,United States
+296,Barstow,California,United States
+297,Bell Gardens,California,United States
+298,Bellflower,California,United States
+299,Berkeley,California,United States
+300,Beverly Hills,California,United States
+301,Burbank,California,United States
+302,Burlingame,California,United States
+303,Camarillo,California,United States
+304,Canoga Park,California,United States
+305,Carson,California,United States
+306,Cerritos,California,United States
+307,Chula Vista,California,United States
+308,Citrus Heights,California,United States
+309,City Of Commerce,California,United States
+310,Colma,California,United States
+311,Concord,California,United States
+312,Coronado,California,United States
+313,Culver City,California,United States
+314,Daly City,California,United States
+315,Downey,California,United States
+316,El Cajon,California,United States
+317,El Segundo,California,United States
+318,Elk Grove,California,United States
+319,Escondido,California,United States
+320,Eureka,California,United States
+321,Fontana,California,United States
+322,Fremont,California,United States
+323,Fullerton,California,United States
+324,Gilroy,California,United States
+325,Glendale,California,United States
+326,Grossmont,California,United States
+327,Hanford,California,United States
+328,Hayward,California,United States
+329,Imperial Beach,California,United States
+330,Irvine,California,United States
+331,La Jolla,California,United States
+332,La Mesa,California,United States
+333,Lake Elsinore,California,United States
+334,Lakewood,California,United States
+335,Lemon Grove,California,United States
+336,Lincoln Acres,California,United States
+337,Long Beach,California,United States
+338,Los Angeles,California,United States
+339,Mill Valley,California,United States
+340,Milpitas,California,United States
+341,Modesto,California,United States
+342,Monrovia,California,United States
+343,National City,California,United States
+344,Newark,California,United States
+345,Newport Beach,California,United States
+346,Norwalk,California,United States
+347,Novato,California,United States
+348,Oakland,California,United States
+349,Ontario,California,United States
+350,Orange,California,United States
+351,Oxnard,California,United States
+352,Palo Alto,California,United States
+353,Pleasanton,California,United States
+354,Redlands,California,United States
+355,Redwood City,California,United States
+356,Sacramento,California,United States
+357,San Bruno,California,United States
+358,San Carlos,California,United States
+359,San Diego,California,United States
+360,San Francisco,California,United States
+361,San Gabriel,California,United States
+362,San Jose,California,United States
+363,San Mateo,California,United States
+364,San Ramon,California,United States
+365,San Ysidro,California,United States
+366,Sand City,California,United States
+367,Santa Ana,California,United States
+368,Santa Cruz,California,United States
+369,Santa Monica,California,United States
+370,Sherman Oaks,California,United States
+371,Simi Valley,California,United States
+372,Spring Valley,California,United States
+373,Stockton,California,United States
+374,Torrance,California,United States
+375,Trabuco Canyon,California,United States
+376,Union City,California,United States
+377,Upland,California,United States
+378,Vacaville,California,United States
+379,Van Nuys,California,United States
+380,Visalia,California,United States
+381,Vista,California,United States
+382,Walnut Creek,California,United States
+383,West Covina,California,United States
+384,Whittier,California,United States
+385,Woodland Hills,California,United States
+386,Denver,Colorado,United States
+387,Englewood,Colorado,United States
+388,Greeley,Colorado,United States
+389,Longmont,Colorado,United States
+390,Loveland,Colorado,United States
+391,Parker,Colorado,United States
+392,Westminster,Colorado,United States
+393,East Haven,Connecticut,United States
+394,Farmington,Connecticut,United States
+395,Hamden,Connecticut,United States
+396,Milford,Connecticut,United States
+397,New Haven,Connecticut,United States
+398,Stamford,Connecticut,United States
+399,Waterbury,Connecticut,United States
+400,Westport,Connecticut,United States
+401,Altamonte Springs,Florida,United States
+402,Bradenton,Florida,United States
+403,Clearwater,Florida,United States
+404,Destin,Florida,United States
+405,Hollywood,Florida,United States
+406,Kendall,Florida,United States
+407,Lakeland,Florida,United States
+408,Merritt Island,Florida,United States
+409,Miami,Florida,United States
+410,North Miami Beach,Florida,United States
+411,Orlando,Florida,United States
+412,Sarasota,Florida,United States
+413,Sunrise,Florida,United States
+414,Tampa,Florida,United States
+415,Vero Beach,Florida,United States
+416,Atlanta,Georgia,United States
+417,Augusta,Georgia,United States
+418,Austell,Georgia,United States
+419,Byron,Georgia,United States
+420,Clarkston,Georgia,United States
+421,Columbus,Georgia,United States
+422,Decatur,Georgia,United States
+423,La Grange,Georgia,United States
+424,Marietta,Georgia,United States
+425,Mcdonough,Georgia,United States
+426,Savannah,Georgia,United States
+427,Suwanee,Georgia,United States
+428,Idaho Falls,Idaho,United States
+429,Lewiston,Idaho,United States
+430,Sandpoint,Idaho,United States
+431,Carol Stream,Illinois,United States
+432,Chicago,Illinois,United States
+433,Elgin,Illinois,United States
+434,Joliet,Illinois,United States
+435,Moline,Illinois,United States
+436,Norridge,Illinois,United States
+437,Peoria,Illinois,United States
+438,Tuscola,Illinois,United States
+439,West Chicago,Illinois,United States
+440,Wood Dale,Illinois,United States
+441,Daleville,Indiana,United States
+442,Fort Wayne,Indiana,United States
+443,Indianapolis,Indiana,United States
+444,Logansport,Indiana,United States
+445,Michigan City,Indiana,United States
+446,New Castle,Indiana,United States
+447,South Bend,Indiana,United States
+448,Campbellsville,Kentucky,United States
+449,Florence,Kentucky,United States
+450,Newport,Kentucky,United States
+451,Saint Matthews,Kentucky,United States
+452,Somerset,Kentucky,United States
+453,Braintree,Massachusetts,United States
+454,Norwood,Massachusetts,United States
+455,Randolph,Massachusetts,United States
+456,Saugus,Massachusetts,United States
+457,Wrentham,Massachusetts,United States
+458,Baltimore,Maryland,United States
+459,Kittery,Maine,United States
+460,Detroit,Michigan,United States
+461,Holland,Michigan,United States
+462,Howell,Michigan,United States
+463,Madison Heights,Michigan,United States
+464,Midland,Michigan,United States
+465,Monroe,Michigan,United States
+466,Novi,Michigan,United States
+467,Pontiac,Michigan,United States
+468,Port Huron,Michigan,United States
+469,Redford,Michigan,United States
+470,Saginaw,Michigan,United States
+471,Southfield,Michigan,United States
+472,Southgate,Michigan,United States
+473,Westland,Michigan,United States
+474,Zeeland,Michigan,United States
+475,Branch,Minnesota,United States
+476,Duluth,Minnesota,United States
+477,Edina,Minnesota,United States
+478,Medford,Minnesota,United States
+479,Minneapolis,Minnesota,United States
+480,Woodbury,Minnesota,United States
+481,Branson,Missouri,United States
+482,Ferguson,Missouri,United States
+483,Jefferson City,Missouri,United States
+484,Kansas City,Missouri,United States
+485,Odessa,Missouri,United States
+486,Saint Ann,Missouri,United States
+487,Saint Louis,Missouri,United States
+488,Biloxi,Mississippi,United States
+489,Gulfport,Mississippi,United States
+490,Tupelo,Mississippi,United States
+491,Billings,Montana,United States
+492,Great Falls,Montana,United States
+493,Missoula,Montana,United States
+494,Charlotte,North Carolina,United States
+495,Greensboro,North Carolina,United States
+496,Kannapolis,North Carolina,United States
+497,Raleigh,North Carolina,United States
+498,Rocky Mount,North Carolina,United States
+499,Smithfield,North Carolina,United States
+500,Winston-Salem,North Carolina,United States
+501,Hooksett,New Hampshire,United States
+502,Nashua,New Hampshire,United States
+503,Plaistow,New Hampshire,United States
+504,Tilton,New Hampshire,United States
+505,Las Cruces,New Mexico,United States
+506,Rio Rancho,New Mexico,United States
+507,Santa Fe,New Mexico,United States
+508,Fernley,Nevada,United States
+509,Las Vegas,Nevada,United States
+510,North Las Vegas,Nevada,United States
+511,Reno,Nevada,United States
+512,Sparks,Nevada,United States
+513,Central Valley,New York,United States
+514,Cheektowaga,New York,United States
+515,Clay,New York,United States
+516,De Witt,New York,United States
+517,Endicott,New York,United States
+518,Ithaca,New York,United States
+519,Lake George,New York,United States
+520,Melville,New York,United States
+521,New Hartford,New York,United States
+522,New York,New York,United States
+523,Valley Stream,New York,United States
+524,Burbank,Ohio,United States
+525,Cincinnati,Ohio,United States
+526,Columbus,Ohio,United States
+527,Euclid,Ohio,United States
+528,Heath,Ohio,United States
+529,Holland,Ohio,United States
+530,Mansfield,Ohio,United States
+531,Mentor,Ohio,United States
+532,North Randall,Ohio,United States
+533,Oberlin,Ohio,United States
+534,Springdale,Ohio,United States
+535,Albany,Oregon,United States
+536,Beaverton,Oregon,United States
+537,Clackamas,Oregon,United States
+538,Clackamas,Oregon,United States
+539,Corvallis,Oregon,United States
+540,Hillsboro,Oregon,United States
+541,Klamath Falls,Oregon,United States
+542,Lake Oswego,Oregon,United States
+543,Lebanon,Oregon,United States
+544,Medford,Oregon,United States
+545,Milwaukie,Oregon,United States
+546,Oregon City,Oregon,United States
+547,Portland,Oregon,United States
+548,Salem,Oregon,United States
+549,Springfield,Oregon,United States
+550,Tigard,Oregon,United States
+551,Troutdale,Oregon,United States
+552,W. Linn,Oregon,United States
+553,Woodburn,Oregon,United States
+554,Warwick,Rhode Island,United States
+555,West Kingston,Rhode Island,United States
+556,Woonsocket,Rhode Island,United States
+557,Bluffton,South Carolina,United States
+558,Gaffney,South Carolina,United States
+559,Myrtle Beach,South Carolina,United States
+560,Denby,South Dakota,United States
+561,North Sioux City,South Dakota,United States
+562,Crossville,Tennessee,United States
+563,Hixson,Tennessee,United States
+564,Kingsport,Tennessee,United States
+565,La Vergne,Tennessee,United States
+566,Maryville,Tennessee,United States
+567,Memphis,Tennessee,United States
+568,Millington,Tennessee,United States
+569,Nashville,Tennessee,United States
+570,Pigeon Forge,Tennessee,United States
+571,Arlington,Texas,United States
+572,Austin,Texas,United States
+573,Baytown,Texas,United States
+574,Carrollton,Texas,United States
+575,Cedar Park,Texas,United States
+576,College Station,Texas,United States
+577,Corpus Christi,Texas,United States
+578,Dallas,Texas,United States
+579,Fort Worth,Texas,United States
+580,Garland,Texas,United States
+581,Hillsboro,Texas,United States
+582,Houston,Texas,United States
+583,Humble,Texas,United States
+584,Irving,Texas,United States
+585,Killeen,Texas,United States
+586,La Marque,Texas,United States
+587,Laredo,Texas,United States
+588,Mesquite,Texas,United States
+589,Plano,Texas,United States
+590,Round Rock,Texas,United States
+591,San Antonio,Texas,United States
+592,Stafford,Texas,United States
+593,Sugar Land,Texas,United States
+594,Bountiful,Utah,United States
+595,Cedar City,Utah,United States
+596,Ogden,Utah,United States
+597,Park City,Utah,United States
+598,Riverton,Utah,United States
+599,Salt Lake City,Utah,United States
+600,Sandy,Utah,United States
+601,Tooele,Utah,United States
+602,Chantilly,Virginia,United States
+603,Falls Church,Virginia,United States
+604,Leesburg,Virginia,United States
+605,Newport News,Virginia,United States
+606,Virginia Beach,Virginia,United States
+607,Ballard,Washington,United States
+608,Bellevue,Washington,United States
+609,Bellingham,Washington,United States
+610,Bothell,Washington,United States
+611,Bremerton,Washington,United States
+612,Burien,Washington,United States
+613,Chehalis,Washington,United States
+614,Edmonds,Washington,United States
+615,Ellensburg,Washington,United States
+616,Everett,Washington,United States
+617,Federal Way,Washington,United States
+618,Issaquah,Washington,United States
+619,Kelso,Washington,United States
+620,Kenmore,Washington,United States
+621,Kennewick,Washington,United States
+622,Kent,Washington,United States
+623,Kirkland,Washington,United States
+624,Lacey,Washington,United States
+625,Longview,Washington,United States
+626,Lynnwood,Washington,United States
+627,Marysville,Washington,United States
+628,Monroe,Washington,United States
+629,Newport Hills,Washington,United States
+630,North Bend,Washington,United States
+631,Olympia,Washington,United States
+632,Port Orchard,Washington,United States
+633,Puyallup,Washington,United States
+634,Redmond,Washington,United States
+635,Renton,Washington,United States
+636,Sammamish,Washington,United States
+637,Seattle,Washington,United States
+638,Sedro Woolley,Washington,United States
+639,Sequim,Washington,United States
+640,Shelton,Washington,United States
+641,Spokane,Washington,United States
+642,Tacoma,Washington,United States
+643,Union Gap,Washington,United States
+644,Walla Walla,Washington,United States
+645,Washougal,Washington,United States
+646,Wenatchee,Washington,United States
+647,Woodinville,Washington,United States
+648,Yakima,Washington,United States
+649,Johnson Creek,Wisconsin,United States
+650,Milwaukee,Wisconsin,United States
+651,Mosinee,Wisconsin,United States
+652,Racine,Wisconsin,United States
+653,Casper,Wyoming,United States
+654,Cheyenne,Wyoming,United States
+655,Rock Springs,Wyoming,United States
