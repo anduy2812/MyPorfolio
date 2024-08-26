@@ -192,21 +192,33 @@ group by YEAR(OrderDate), MONTH(OrderDate)
 
 ---- Total customers number by year
 
-select distinct
-    *,
-    FORMAT (TotalCusNumByYear*1.0 / TotalCusNum, 'p') as  TotalCusPct
-from (
+with
+    total_cus_tbl
+    as
+    (
+        select distinct
+            YEAR(OrderDate) as Year,
+            (select COUNT(distinct CustomerKey)
+            from FactInternetSales) as TotalCusNum
+        from FactInternetSales
+    ),
+    total_cus_by_year_tbl
+    as
+    (
+        select
+            YEAR(OrderDate) as Year,
+            COUNT(distinct CustomerKey) as TotalCusNumByYear
+        from FactInternetSales
+        group by YEAR(OrderDate)
+    )
 select
-        YEAR(Date) as Year,
-        COUNT(cus.CustomerKey) OVER () as TotalCusNum,
-        COUNT(cus.CustomerKey) OVER (PARTITION BY YEAR(OrderDate)) as TotalCusNumByYear
-    from FactInternetSales fact
-        join DimDate date
-        on fact.OrderDateKey = date.DateKey
-        join DimCustomer cus
-        on fact.CustomerKey = cus.CustomerKey
-) as total_tbl
-order by [Year]
+    tt.[Year],
+    TotalCusNum,
+    TotalCusNumByYear,
+    FORMAT(TotalCusNumByYear*1.0/TotalCusNum, 'p') as TotalCusPct
+from total_cus_tbl tt
+    join total_cus_by_year_tbl tty
+    on tt.[Year] = tty.[Year]
 
 
 ---- Total customers number comparison by same year period
