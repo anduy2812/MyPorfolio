@@ -19,6 +19,7 @@ group by YEAR(OrderDate)
 order by YEAR
 
 
+
 ---- Total profit, sales same period of year comparison
 
 select
@@ -226,18 +227,17 @@ select distinct
         on cus.CustomerKey = fact.CustomerKey
 ) as info_tbl
 
-
 ---- Total profit, sales per customers and loyal customer tier classify
 
 
 select
     *,
     CASE 
-        WHEN TotalSales >= 1000 and TotalSales < 1500 THEN 'Silver'
-        WHEN TotalSales >= 1500 and TotalSales < 5000 then 'Gold'
+        WHEN TotalSales >= 1000 and TotalSales < 2000 THEN 'Silver'
+        WHEN TotalSales >= 2000 and TotalSales < 5000 then 'Gold'
         WHEN TotalSales >= 5000 THEN 'Diamond'
         ELSE 'Walk-in'
-    END as LoyalCusTier
+    END as CusTier
 from (
 select
         FullName,
@@ -249,7 +249,7 @@ select
     group by FullName
 -- order by TotalSales
 ) as tier_classify
-order by TotalSales
+order by TotalSales DESC
 
 
 ---- Average day interval
@@ -336,6 +336,7 @@ select
 from cus_num_by_city
 ;
 
+
 ---- Customer growth rate
 
 
@@ -360,7 +361,6 @@ with
             LAG(TotalCus) OVER (ORDER BY Year, Month) as TotalCusPrevYear,
             (TotalCus - LAG(TotalCus) OVER (ORDER BY Year, Month))*1.0 / LAG(TotalCus) OVER (ORDER BY Year, Month) as CusGrowthRate
         from totalcus_tbl
-
     )
 select
     Year,
@@ -375,7 +375,6 @@ group by Year
 ---- CATEGORY
 
 ---- Profit, sales, cost
-
 
 select
     CategoryName,
@@ -438,10 +437,10 @@ WITH
     as
     (
         select distinct
-            ModelName,
-            CategoryName,
-            SUM(OrderQuantity) OVER (PARTITION BY ModelName) as ProductQuantitySold,
-            SUM(OrderQuantity) OVER (PARTITION BY CategoryName) as TotalQuantitySoldByCategory
+            ProductDetail,
+            -- CategoryName,
+            SUM(OrderQuantity) OVER (PARTITION BY fact.ProductKey) as ProductQuantitySold,
+            SUM(OrderQuantity) OVER (PARTITION BY cate.CategoryKey) as TotalQuantitySoldByCategory
         from FactInternetSales fact
             join DimProduct pro
             on fact.ProductKey = pro.ProductKey
@@ -454,4 +453,3 @@ select
     *,
     FORMAT(CAST(ProductQuantitySold as decimal) / TotalQuantitySoldByCategory, 'p') as ProductQuantitySoldPct
 from quantity_sold
-
