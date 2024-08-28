@@ -28,7 +28,7 @@ set Gender = IIF(Gender = 'M', 'Male','Female')
 UPDATE DimCustomer -- Update customer's birthdate
 SET BirthDate = DATEADD(
     DAY, 
-    ABS(CHECKSUM(NEWID())) % 21915, 
+    ABS(CHECKSUM(NEWID())) % DATEDIFF(DAY, '1960-01-01', '2006-12-31') + 1,
     '1960-01-01'
 );
 
