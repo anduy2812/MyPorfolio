@@ -25,6 +25,13 @@ set FullName = IIF(MiddleName is Null, FirstName + ' ' + LastName, FirstName + '
 update DimCustomer
 set Gender = IIF(Gender = 'M', 'Male','Female')
 
+UPDATE DimCustomer -- Update customer's birthdate
+SET BirthDate = DATEADD(
+    DAY, 
+    ABS(CHECKSUM(NEWID())) % 21915, 
+    '1960-01-01'
+);
+
 ---------------------------------------------------------------------
 -- DimProduct
 
